@@ -1,5 +1,15 @@
-*.log
-.env
-node_modules/
+# User-specific files (Do NOT ignore *.sln)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build outputs
+[Db]ebug/
+[Rr]elease/
 bin/
 obj/
+
+# Visual Studio cache directory
+.vs/
